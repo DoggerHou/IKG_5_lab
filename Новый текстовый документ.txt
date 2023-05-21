@@ -1,0 +1,53 @@
+	    GeometricArray[11, 0] = 0;
+            GeometricArray[11, 1] = 0;
+            GeometricArray[11, 2] = 13;
+
+            GeometricArray[10, 0] = 0.6;
+            GeometricArray[10, 1] = 0;
+            GeometricArray[10, 2] = 12.75;
+
+            GeometricArray[9, 0] = 0.3;
+            GeometricArray[9, 1] = 0;
+            GeometricArray[9, 2] = 12.5;
+
+            //шарик после пимпочки
+            GeometricArray[9, 0] = 2;
+            GeometricArray[9, 1] = 0;
+            GeometricArray[9, 2] = 11.5;
+
+            GeometricArray[8, 0] = 1.5;
+            GeometricArray[8, 1] = 0;
+            GeometricArray[8, 2] = 10.5;
+
+            GeometricArray[7, 0] = 2.5;
+            GeometricArray[7, 1] = 0;
+            GeometricArray[7, 2] = 10.25;
+
+            GeometricArray[6, 0] = 1.3;
+            GeometricArray[6, 1] = 0;
+            GeometricArray[6, 2] = 10;
+
+            //Начало тела Слона
+            GeometricArray[5, 0] = 1.2;
+            GeometricArray[5, 1] = 0;
+            GeometricArray[5, 2] = 7;
+
+            GeometricArray[4, 0] = 1.6;
+            GeometricArray[4, 1] = 0;
+            GeometricArray[4, 2] = 4;
+            //Начало ножки Слона
+            GeometricArray[3, 0] = 4;
+            GeometricArray[3, 1] = 0;
+            GeometricArray[3, 2] = 2;
+
+            GeometricArray[2, 0] = 2.5;
+            GeometricArray[2, 1] = 0;
+            GeometricArray[2, 2] = 0.5;
+
+            GeometricArray[1, 0] = 3;
+            GeometricArray[1, 1] = 0;
+            GeometricArray[1, 2] = 0.25;
+
+            GeometricArray[0, 0] = 0;
+            GeometricArray[0, 1] = 0;
+            GeometricArray[0, 2] = 0;
